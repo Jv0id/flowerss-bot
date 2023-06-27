@@ -23,4 +23,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: jp0id/flowerss_rss:latest
+          tags: jp0id/telegram_flowerss_bot:latest
